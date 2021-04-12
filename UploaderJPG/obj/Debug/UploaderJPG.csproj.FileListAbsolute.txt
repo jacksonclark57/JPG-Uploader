@@ -1,0 +1,10 @@
+C:\Users\16627\source\repos\UploaderJPG\UploaderJPG\bin\Debug\UploaderJPG.exe.config
+C:\Users\16627\source\repos\UploaderJPG\UploaderJPG\bin\Debug\UploaderJPG.exe
+C:\Users\16627\source\repos\UploaderJPG\UploaderJPG\bin\Debug\UploaderJPG.pdb
+C:\Users\16627\source\repos\UploaderJPG\UploaderJPG\obj\Debug\UploaderJPG.csprojAssemblyReference.cache
+C:\Users\16627\source\repos\UploaderJPG\UploaderJPG\obj\Debug\UploaderJPG.Form1.resources
+C:\Users\16627\source\repos\UploaderJPG\UploaderJPG\obj\Debug\UploaderJPG.Properties.Resources.resources
+C:\Users\16627\source\repos\UploaderJPG\UploaderJPG\obj\Debug\UploaderJPG.csproj.GenerateResource.cache
+C:\Users\16627\source\repos\UploaderJPG\UploaderJPG\obj\Debug\UploaderJPG.csproj.CoreCompileInputs.cache
+C:\Users\16627\source\repos\UploaderJPG\UploaderJPG\obj\Debug\UploaderJPG.exe
+C:\Users\16627\source\repos\UploaderJPG\UploaderJPG\obj\Debug\UploaderJPG.pdb
